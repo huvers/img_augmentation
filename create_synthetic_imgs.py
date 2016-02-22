@@ -79,7 +79,7 @@ def main():
 
     if len(sys.argv) < 2:
         print "No folder given for synthetic data creation."
-        print "Usage: python create_synthetic_data.py [folder]"
+        print "Usage: python create_synthetic_imgs.py [folder]"
         sys.exit()
 
     target_path_dir = sys.argv[1]
