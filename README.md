@@ -15,9 +15,11 @@ Will operate on a folder containing either images or subfolders with images, and
 <h3>
 Example
 </h3>
-
+<h4>
 Original Image
+</h4>
 ![Alt desc](https://github.com/huvers/img_augmentation/blob/master/orig_98.png)
-
+<h4>
 Synthetic Image
+</h4>
 ![Alt desc](https://github.com/huvers/img_augmentation/blob/master/synthetic_98.png)
