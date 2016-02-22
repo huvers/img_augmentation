@@ -17,6 +17,7 @@ Example
 </h3>
 
 Original Image
+![Alt desc](https://github.com/huvers/img_augmentation/blob/master/orig_98.png)
 
 Synthetic Image
-<img>synthetic_98.png</img>
+![Alt desc](https://github.com/huvers/img_augmentation/blob/master/synthetic_98.png)
